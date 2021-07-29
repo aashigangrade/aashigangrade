@@ -4,10 +4,10 @@
 ## I'm a Developer, Problem Solver and Student!!
 
 - 🔭 Engineering undergraduate with specialization in Information Technology.
-- 🌱 2022 Passout.
+- 🌱 2022 Pass out.
 - 👯 IET DAVV, Indore.
 - ⚡ Data Structures & Algorithms Lover ❤️.
-- 🎯 2021 Goals: Improve my Coding & Problem Solving Skills.
+- 🎯 2021 Goals: Improve my Coding & Problem-Solving Skills.
 
 ### Online Profiles:
 
