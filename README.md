@@ -16,12 +16,14 @@
 [<img align="left" alt="Aashi | GFG" width="26px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />][gfg]
 [<img align="left" alt="Aashi | Codeforces" width="26px" src="https://news.itmo.ru/images/news/big/917925.jpg" />][codeforces]
 <br />
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="Aashi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools:
