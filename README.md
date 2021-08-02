@@ -14,7 +14,6 @@
 [<img align="left" alt="Aashi | Leetcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
 [<img align="left" alt="Aashi | Hackerrank" width="26px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Aashi | GFG" width="26px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />][gfg]
-[<img align="left" alt="Aashi | Codeforces" width="26px" src="https://news.itmo.ru/images/news/big/917925.jpg" />][codeforces]
 <br />
 <br />
 
