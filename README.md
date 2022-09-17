@@ -1,13 +1,13 @@
 ### Hi there, I'm Aashi 👋
 
 
-## I'm a Developer, Problem Solver and Student!!
+## I'm a Developer and Problem Solver!!
 
-- 🔭 Engineering undergraduate with specialization in Information Technology.
+- 🔭 Developer at Credit Suisse | Engineering graduate with specialization in Information Technology.
 - 🌱 2022 Pass out.
 - 👯 IET DAVV, Indore.
 - ⚡ Data Structures & Algorithms Lover ❤️.
-- 🎯 2021 Goals: Improve my Coding & Problem-Solving Skills.
+- 🎯 2022 Goals: Improve my Coding & Problem-Solving Skills.
 
 ### Online Profiles:
 
