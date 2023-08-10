@@ -24,7 +24,7 @@ I'm a passionate software engineer with a background in building robust applicat
 - Check out my [Leetcode] and [Hackerrank] profiles for coding challenges and solutions.
 
 ## 📫 Contact
-- You can reach me at [aashigangrade06@gmail.com](aashigangrade06@gmail.com).
+- You can reach me at [aashigangrade06@gmail.com](mailto:aashigangrade06@gmail.com).
 
 ---
 
