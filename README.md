@@ -1,49 +1,30 @@
 ### Hi there, I'm Aashi 👋
 
+I'm a passionate software engineer with a background in building robust applications and solving complex challenges. I have a strong foundation in both frontend and backend technologies, along with experience in microservices architecture and agile methodologies.
 
-## I'm a Developer and Problem Solver!!
+## 🔭 Current Work
+- I'm currently working as a Technical Analyst (Software Developer) at Credit Suisse, Pune.
 
-- 🔭 Developer at Credit Suisse | Engineering graduate with specialization in Information Technology.
-- 🌱 2022 Pass out.
-- 👯 IET DAVV, Indore.
-- ⚡ Data Structures & Algorithms Lover ❤️.
-- 🎯 2022 Goals: Improve my Coding & Problem-Solving Skills.
+## 🌱 Key Skills
+- Proficient in C++, Java, SQL, JavaScript, React, Spring Boot, and more.
+- Experience in working with Git, Bitbucket, and CI/CD tools.
+- Strong understanding of Data Structures, Algorithms, and Microservices.
 
-### Online Profiles:
+## 🚀 Recent Achievements
+- Successfully deployed services on OpenShift Container Platform 4 (OCP4), gaining expertise in containerized deployments.
+- Conducted Kafka resiliency testing by simulating leader node failure, contributing to a more robust system architecture.
+- Integrated component tests in various services to ensure higher reliability and performance.
+- Seamlessly integrated Securitas for enhanced security and authentication measures.
 
-[<img align="left" alt="Aashi | Leetcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
-[<img align="left" alt="Aashi | Hackerrank" width="26px" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Aashi | GFG" width="26px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />][gfg]
-<br />
-<br />
+## 📚 Education
+- Bachelor of Engineering (B.E.) in Information Technology from Institute of Engineering and Technology, DAVV, Indore (Gold Medallist).
 
-### Connect with me:
+## 💬 Let's Connect
+- Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/aashi-gangrade-b4b955169/) for professional connections and discussions.
+- Check out my [Leetcode] and [Hackerrank] profiles for coding challenges and solutions.
 
-[<img align="left" alt="Aashi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aashi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="C++" width="26px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />][github]
-[<img align="left" alt="JAVA" width="26px" src="https://banner2.cleanpng.com/20180517/bce/kisspng-java-runtime-environment-software-development-kit-5afdf2eb843ce5.8367355515265922355417.jpg" />][github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][github]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
-
-<br />
-<br />
+## 📫 Contact
+- You can reach me at [aashigangrade06@gmail.com](aashigangrade06@gmail.com).
 
 ---
 
