@@ -21,7 +21,7 @@ I'm a passionate software engineer with a background in building robust applicat
 
 ## 💬 Let's Connect
 - Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/aashi-gangrade-b4b955169/) for professional connections and discussions.
-- Check out my [Leetcode] and [Hackerrank] profiles for coding challenges and solutions.
+- Check out my [Leetcode], [CodeSignal] and [Hackerrank] profiles for coding challenges and solutions.
 
 ## 📫 Contact
 - You can reach me at [aashigangrade06@gmail.com](mailto:aashigangrade06@gmail.com).
@@ -32,6 +32,7 @@ I'm a passionate software engineer with a background in building robust applicat
 [website]: https://www.linkedin.com/in/aashi-gangrade-b4b955169/
 [linkedin]: https://www.linkedin.com/in/aashi-gangrade-b4b955169/
 [hackerrank]: https://www.hackerrank.com/aashigangrade06
+[CodeSignal]: https://app.codesignal.com/profile/aashi_g_ypv
 [leetcode]: https://leetcode.com/iashi_g/
 [gfg]: https://auth.geeksforgeeks.org/user/aashi_g/practice/
 [codeforces]: https://codeforces.com/profile/aashi_g
