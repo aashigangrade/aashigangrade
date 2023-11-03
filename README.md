@@ -3,10 +3,10 @@
 I'm a passionate software engineer with a background in building robust applications and solving complex challenges. I have a strong foundation in both frontend and backend technologies, along with experience in microservices architecture and agile methodologies.
 
 ## 🔭 Current Work
-- I'm currently working as a Technical Analyst (Software Developer) at Credit Suisse, Pune.
+- I'm currently working as a Software Engineer at UBS. Prior to that I was working at Credit Suisse.
 
 ## 🌱 Key Skills
-- Proficient in C++, Java, SQL, JavaScript, React, Spring Boot, and more.
+- Proficient in C++, Java, SQL, JavaScript, Kotlin, React, Spring Boot, and more.
 - Experience in working with Git, Bitbucket, and CI/CD tools.
 - Strong understanding of Data Structures, Algorithms, and Microservices.
 
