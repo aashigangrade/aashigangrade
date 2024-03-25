@@ -1,6 +1,6 @@
 ### Hi there, I'm Aashi 👋
 
-I'm a passionate software engineer with a background in building robust applications and solving complex challenges. I have a strong foundation in both frontend and backend technologies, along with experience in microservices architecture and agile methodologies.
+I'm a software engineer with a background in building robust applications and solving complex challenges. I have a strong foundation in both frontend and backend technologies, along with experience in microservices architecture and agile methodologies.
 
 ## 🔭 Current Work
 - I'm currently working as a Software Engineer at UBS. Prior to that I was working at Credit Suisse.
@@ -9,12 +9,6 @@ I'm a passionate software engineer with a background in building robust applicat
 - Proficient in C++, Java, SQL, JavaScript, Kotlin, React, Spring Boot, and more.
 - Experience in working with Git, Bitbucket, and CI/CD tools.
 - Strong understanding of Data Structures, Algorithms, and Microservices.
-
-## 🚀 Recent Achievements
-- Successfully deployed services on OpenShift Container Platform 4 (OCP4), gaining expertise in containerized deployments.
-- Conducted Kafka resiliency testing by simulating leader node failure, contributing to a more robust system architecture.
-- Integrated component tests in various services to ensure higher reliability and performance.
-- Seamlessly integrated Securitas for enhanced security and authentication measures.
 
 ## 📚 Education
 - Bachelor of Engineering (B.E.) in Information Technology from Institute of Engineering and Technology, DAVV, Indore (Gold Medallist).
