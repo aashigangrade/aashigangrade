@@ -1,14 +1,12 @@
 ### Hi there, I'm Aashi 👋
 
-I'm a software engineer with a background in building robust applications and solving complex challenges. I have a strong foundation in both frontend and backend technologies, along with experience in microservices architecture and agile methodologies.
-
 ## 🔭 Current Work
-- I'm currently working as a Software Engineer at UBS. Prior to that I was working at Credit Suisse.
+- I'm currently working as a Software Engineer 2 at Intuit. Prior to that I was working at Credit Suisse & UBS.
 
 ## 🌱 Key Skills
-- Proficient in C++, Java, SQL, JavaScript, Kotlin, React, Spring Boot, and more.
+- Proficient in C++, Java, SQL, JavaScript, Kotlin, React, Spring Boot.
 - Experience in working with Git, Bitbucket, and CI/CD tools.
-- Strong understanding of Data Structures, Algorithms, and Microservices.
+- Strong understanding of Data Structures, and Algorithms.
 
 ## 📚 Education
 - Bachelor of Engineering (B.E.) in Information Technology from Institute of Engineering and Technology, DAVV, Indore (Gold Medallist).
